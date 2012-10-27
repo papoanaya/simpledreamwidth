@@ -1,6 +1,14 @@
-# Simple Journal
+# Simple Dream Width
 
-A minimalistic [Live Journal](http://www.livejournal.com/) client for Android with [markdown](http://daringfireball.net/projects/markdown/basics) support.
+A minimalistic [Dream Width Journal](http://www.dreamwidth.org/) client for
+Android with [markdown](http://daringfireball.net/projects/markdown/basics)
+support. 
+
+This is a recompile of Simple Journal for DreamWidth. The Original
+Simple Journal code was developed by
+[Andrew Popovich](https://github.com/piratus/simplejournal). No new
+features were added, only to redirect transactions to
+[www.dreamwidth.org](http://www.dreamwidth.org). 
 
 The only features included are:
 
@@ -14,6 +22,11 @@ Includes English and Russian translation.
 
 ## Changelog
 
+Version 0.6:
+
+* Recompile for dreamwidth.org **only**. 
+
+----
 Version 0.5:
 
 * Share text and links from the "Send to" menu
